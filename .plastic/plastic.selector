@@ -1,0 +1,4 @@
+repository "SlalomMVP/SlalomMVP@5772948812006@cloud"
+  path "/"
+    br "/main"
+    co "/main"
